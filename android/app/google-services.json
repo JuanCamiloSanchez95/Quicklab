@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "951329075780",
+    "firebase_url": "https://quicklab-42e8e.firebaseio.com",
+    "project_id": "quicklab-42e8e",
+    "storage_bucket": "quicklab-42e8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951329075780:android:33024a522d9da4a5eb8211",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951329075780-ovdiug6jpi5b8t0vi15c9k9loggteokf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmte_h3YNlAIuW-WU4kY7v7Jusm9_WHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951329075780-ovdiug6jpi5b8t0vi15c9k9loggteokf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951329075780:android:a7dd8807978d2626eb8211",
+        "android_client_info": {
+          "package_name": "com.example.quicklab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951329075780-ovdiug6jpi5b8t0vi15c9k9loggteokf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmte_h3YNlAIuW-WU4kY7v7Jusm9_WHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951329075780-ovdiug6jpi5b8t0vi15c9k9loggteokf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951329075780:android:973dcda5b36bbf67eb8211",
+        "android_client_info": {
+          "package_name": "com.example.quicklabFlutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951329075780-ovdiug6jpi5b8t0vi15c9k9loggteokf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzmte_h3YNlAIuW-WU4kY7v7Jusm9_WHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951329075780-ovdiug6jpi5b8t0vi15c9k9loggteokf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
