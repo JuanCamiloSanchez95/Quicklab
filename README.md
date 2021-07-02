@@ -25,7 +25,6 @@ This project is a starting point for a Flutter application.
 Open a folder in your computer and clone the repository
 
 ```
-https://gitlab.com/isis3510_202020_team31/flutter.git
 ```
 ### Import the project to IDE
 
@@ -34,16 +33,14 @@ Open your favorite IDE and import the app folder
 #### Android Studio
 If you use Android Studio go to File->Open and in the dialog, look for cloned repository and import it
 <br>
-![path](/uploads/de74e36cc0391e19c0e5fa90a19e8609/path.JPG)
 
 After the project is imported you nedd to get de pub get on the pubspec File
 <br>
 
-![get](/uploads/7fa6a1eb03d204350e71a554debe07a4/get.JPG)
 
 Then choose one AVD protoype and run the main.dart 
 <br>
-![run](/uploads/41370703cbd3549ab87c24f40fb85e3c/run.JPG)
+
 
 A few resources to get you started if this is your first Flutter project:
 
